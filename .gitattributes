@@ -1,1 +1,1 @@
-*.prefab merge=binary
+*.prefab merge=binary -diff
